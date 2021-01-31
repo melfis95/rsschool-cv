@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Melfis95.github.io/rsschool-cv/cv
