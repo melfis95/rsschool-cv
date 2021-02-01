@@ -1,0 +1,18 @@
+#a1 {
+color: red;	
+}
+.message {
+color: red;	
+}
+.message:hover {
+color: green;	
+}
+.outer {
+    border: 1px solid blue;
+}
+.inner {
+    width: 150px;
+    border: 2px solid red;
+    margin: auto;
+}
+
